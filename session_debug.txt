@@ -1,0 +1,6 @@
+Array
+(
+    [isLoggedIn] => 1
+    [username] => admin
+    [user_id] => 1
+)
